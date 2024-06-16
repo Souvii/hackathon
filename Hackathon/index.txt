@@ -1,0 +1,2 @@
+ <img class="relative w-[30vw] sm:w-[20vw] md:w-[30vw] ml-[5%]" src="Components/portrait-cute-animated-bee 1.png" alt="">
+            <div class="text-center absolute w-full h-[20vh]  bg-[#F6BE00] top-[10%] sm:top-[18%] md:top-[40%] lg:top-[50%] xl:top-[60%] 2xl:top-[80%]"></div>
